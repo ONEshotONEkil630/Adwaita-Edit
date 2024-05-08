@@ -2,7 +2,7 @@
 
 A skin to make Steam look more like a native GNOME app
 
-<p align="center"><img src="screenshot.png?raw=true"/></p>
+<p align="center"><img src="[screenshot.png?raw=true](https://raw.githubusercontent.com/tkashkin/Adwaita-for-Steam/master/screenshot.png)"/></p>
 
 ## Current state and plans
 
