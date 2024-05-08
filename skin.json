@@ -1,0 +1,126 @@
+{
+    "Patches": [
+        {
+      "MatchRegexString": ".*Menu$",
+      "TargetCss": "libraryroot.custom.css",
+      "TargetJs": "libraryroot.custom.js"		
+        },
+        {			
+            "MatchRegexString": "libraryroot.customBrowser_Find",
+            "TargetCss": "libraryroot.custom.css"
+        },
+        {
+            "MatchRegexString": "Shutdown",
+            "TargetCss": "libraryroot.custom.css"
+        },
+        {
+            "MatchRegexString": ".*Properties.*",
+            "TargetCss": "libraryroot.custom.css"
+        },
+        {
+            "MatchRegexString": "Special Offers",
+            "TargetCss": "libraryroot.custom.css"
+        },
+        {
+            "MatchRegexString": "libraryroot.custom Big Picture Mode",
+            "TargetCss": "libraryroot.custom.css"
+        },
+        {
+            "MatchRegexString": ".*SP Overlay:.*",
+            "TargetCss": "libraryroot.custom.css"
+        },
+        {
+            "MatchRegexString": "Achievements",
+            "TargetCss": "libraryroot.custom.css"
+        },
+        {
+            "MatchRegexString": "GameNotes",
+            "TargetCss": "libraryroot.custom.css"
+        },
+        {
+            "MatchRegexString": "ScreenshotManager",
+            "TargetCss": "libraryroot.custom.css"
+        },
+        {
+            "MatchRegexString": "GameOverview",
+            "TargetCss": "libraryroot.custom.css"
+        },
+        {
+            "MatchRegexString": "SoundtrackPlayer",
+            "TargetCss": "libraryroot.custom.css"
+        },
+        {
+            "MatchRegexString": "OverlayBrowser_(?!.*_Find$).*",
+            "TargetCss": "libraryroot.custom.css"
+        },
+        {
+            "MatchRegexString": "OverlayBrowser_.*_Find",
+            "TargetCss": "libraryroot.custom.css"
+        },
+        {
+            "MatchRegexString": "OverlayTab\\d+_Find",
+            "TargetCss": "libraryroot.custom.css"
+        },
+        {
+            "MatchRegexString": "OverlayBrowser_Browser",
+            "TargetCss": "libraryroot.custom.css"			
+        },
+        {			
+            "MatchRegexString": "friendsui-container",
+            "TargetCss": "libraryroot.custom.css"
+        },
+        {
+            "MatchRegexString": "ModalDialogPopup",
+            "TargetCss": "libraryroot.custom.css"
+        },
+        {
+            "MatchRegexString": ".*Supernav$",
+            "TargetCss": "libraryroot.custom.css"
+        },
+        {			
+            "MatchRegexString": "^libraryroot.custom$",
+            "TargetCss": "libraryroot.custom.css"
+        },
+        {
+            "MatchRegexString": "^Sign in to libraryroot.custom$",
+            "TargetCss": "libraryroot.custom.css"
+        },
+        {
+            "MatchRegexString": "friendsui-container",
+            "TargetCss": "libraryroot.custom.css"
+        },
+        {
+            "MatchRegexString": ".FullModalOverlay",
+            "TargetCss": "libraryroot.custom.css",
+            "TargetJs": "libraryroot.custom.js"
+        },
+        {
+            "MatchRegexString": ".*Supernav$",
+            "TargetCss": "libraryroot.custom.css",
+            "TargetJs": "libraryroot.custom.js"
+        },
+        {
+            "MatchRegexString": "^notificationtoasts_",
+            "TargetCss": "libraryroot.custom.css",
+            "TargetJs": "libraryroot.custom.js"
+        },
+        {
+            "MatchRegexString": "^libraryroot.customBrowser_Find$",
+            "TargetCss": "libraryroot.custom.css",
+            "TargetJs": "libraryroot.custom.js"
+        },
+        {
+            "MatchRegexString": "^OverlayTab\\d+_Find$",
+            "TargetCss": "libraryroot.custom.css",
+            "TargetJs": "libraryroot.custom.js"			
+        }
+    ],
+    "UseDefaultPatches": true,
+    "author": "tk, ONEshotONEkil630",
+    "description": "A skin to make Steam look more like a native GNOME app",
+    "source": "https://github.com/ONEshotONEkil630/Adwaita-for-Steam-Millennium-",	
+    "name": "Adwaita for Steam",
+    "native-name": "Adwaita for Steam",
+    "remote": false,
+    "version": "v2.0"
+}

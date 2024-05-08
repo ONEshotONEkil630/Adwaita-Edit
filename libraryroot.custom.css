@@ -1,0 +1,44 @@
+/* ======== BASE ======== */
+@import url("adwaita/css/_root/colors.css");
+@import url("adwaita/css/_root/icons.css");
+@import url("adwaita/css/_root/localization.css");
+@import url("adwaita/css/_root/opacity.css");
+@import url("adwaita/css/_root/text.css");
+@import url("adwaita/css/_root/variables.css");
+@import url("adwaita/css/chat/game_details.css");
+@import url("adwaita/css/chat/chat.css");
+@import url("adwaita/css/dialogs/login.css");
+@import url("adwaita/css/dialogs/settings.css");
+@import url("adwaita/css/dialogs/pagedsettings/dialog.css");
+@import url("adwaita/css/dialogs/pagedsettings/rows.css");
+@import url("adwaita/css/main/headerbar/buttons.css");
+@import url("adwaita/css/main/headerbar/headerbar.css");
+@import url("adwaita/css/main/headerbar/menu.css");
+@import url("adwaita/css/main/headerbar/navigation.css");
+@import url("adwaita/css/main/library/library.css");
+@import url("adwaita/css/main/library/details/activity.css");
+@import url("adwaita/css/main/library/details/details.css");
+@import url("adwaita/css/main/library/details/event-dialog.css");
+@import url("adwaita/css/main/library/details/header.css");
+@import url("adwaita/css/main/library/home/game-card.css");
+@import url("adwaita/css/main/library/home/home.css");
+@import url("adwaita/css/main/library/home/news.css");
+@import url("adwaita/css/main/library/sidebar/gamelist.css");
+@import url("adwaita/css/main/library/sidebar/sidebar.css");
+@import url("adwaita/css/widgets/avatars.css");
+@import url("adwaita/css/widgets/buttons.css");
+@import url("adwaita/css/widgets/cards.css");
+@import url("adwaita/css/widgets/checkboxes.css");
+@import url("adwaita/css/widgets/dialogs.css");
+@import url("adwaita/css/widgets/entries.css");
+@import url("adwaita/css/widgets/lists.css");
+@import url("adwaita/css/widgets/popups.css");
+@import url("adwaita/css/widgets/scrollbars.css");
+@import url("adwaita/css/widgets/windows.css");
+@import url("adwaita/extras/windowcontrols/right-all.css");
+@import url("custom/custom.css");
+@import url("adwaita/colorthemes/adwaita/adwaita.css");
+
+
+/* ======== CREDITS ======== */
+/* Anatoliy Kashkin | Github.com/tkashkin/Adwaita-for-Steam
