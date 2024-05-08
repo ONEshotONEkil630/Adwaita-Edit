@@ -2,8 +2,7 @@
 
 A skin to make Steam look more like a native GNOME app
 
-![Steam Skin](![screenshot](https://github.com/ONEshotONEkil630/Adwaita-for-Steam-Millennium-/assets/158489380/231eebde-db01-44d8-bace-fb693506ee1d)
-)
+![Steam Skin](![screenshot])
 
 </div>
 
