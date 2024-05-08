@@ -1,3 +1,30 @@
+# Adwaita for Steam
+
+A skin to make Steam look more like a native GNOME app
+
+<p align="center"><img src="screenshot.png?raw=true"/></p>
+
+## Current state and plans
+
+* **Main Window**: Done.
+* **Login**: Done
+* **Library**: Done
+* **Small Mode**: Done.
+* **Chat**: Done
+* **Settings**: Mostly done.
+* **New Overlay**: Mostly done.
+* **New Big Picture**: Not done.
+* **Recoloring**: Colors can be changed via making a new theme. See [colorthemes](/adwaita/colorthemes) dir.
+* **Light Themes**: Not currently planned, though may now be more feasible with the new UI.
+
+### Limitations
+
+* **Steam updates may reset theme**: While the installer will patch steam files in order to theme the interface, these files may be reset by steam updates. If this happens, you will need to reinstall to repatch them.
+* **Rounded corners**: Not all elements can be rounded, use [Rounded Window Corners extension](https://github.com/yilozt/rounded-window-corners) or [mutter-rounded](https://github.com/yilozt/mutter-rounded) on GNOME.
+* **Steam website pages (Store/Community/Profiles/Etc)**: No longer themable with our current method.
+* **Position of notifications**: Doesn't seem to be possible to change.
+* **Height of sidebar items**: Doesn't seem to be possible to increase.
+
 ## Theme Template
 
 ### General 
