@@ -2,6 +2,10 @@
 
 A skin to make Steam look more like a native GNOME app
 
+![Steam Skin](https://i.imgur.com/uXtPTnr.png)
+
+</div>
+
 ## Current state and plans
 
 * **Main Window**: Done.
