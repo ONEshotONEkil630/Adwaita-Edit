@@ -2,9 +2,6 @@
 
 A skin to make Steam look more like a native GNOME app
 
-<p align="center"><img src="![Uploading image.png…]()
-"/></p>
-
 ## Current state and plans
 
 * **Main Window**: Done.
