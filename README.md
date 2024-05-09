@@ -26,3 +26,5 @@ A skin to make Steam look more like a native GNOME app
 * **Steam website pages (Store/Community/Profiles/Etc)**: No longer themable with our current method.
 * **Position of notifications**: Doesn't seem to be possible to change.
 * **Height of sidebar items**: Doesn't seem to be possible to increase.
+
+Credits: https://github.com/tkashkin
