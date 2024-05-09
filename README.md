@@ -5,6 +5,7 @@ A skin to make Steam look more like a native GNOME app
 ![Steam Skin](https://preview.redd.it/pk8qg82398zc1.png?width=1080&crop=smart&auto=webp&s=bce426091d80cb012ce4e2ab9feabfdcc994c2ce)
 
 </div>
+![image](https://github.com/ONEshotONEkil630/Adwaita-Edit/assets/158489380/a85ba7e9-c016-4a1b-aa0f-24fa20bb52a3)
 
 ## Current state and plans
 
