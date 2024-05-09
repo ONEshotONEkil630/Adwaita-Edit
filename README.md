@@ -19,4 +19,4 @@ A skin to make Steam look more like a native GNOME app
 * **Recoloring**: Colors can be changed via making a new theme. See [colorthemes](/adwaita/colorthemes) dir.
 * **Light Themes**: Not currently planned, though may now be more feasible with the new UI.
 
-Credits: https://github.com/tkashkin
+Credits: https://github.com/tkashkin For Base Skin, https://github.com/AikoMidori For the Webkit & https://github.com/ShadowMonster99 For The Chat & Friends List
